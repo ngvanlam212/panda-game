@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8902cfe0993efbc41810e4408973908f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - anim: {instanceID: 0}
+  - trigger: {instanceID: 0}
+  - attackButton: {instanceID: 0}
+  - attackingClip: {fileID: 8300000, guid: db4c3b8ff01f8e74fa98998b7b8104d8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

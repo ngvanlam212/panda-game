@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1fd6c96eaee8a0349af5fc4877885c25
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - destroyEffect: {instanceID: 0}
+  - healthBarBehavior: {instanceID: 0}
+  - player: {instanceID: 0}
+  - s: {instanceID: 0}
+  - vacham: {fileID: 8300000, guid: db4c3b8ff01f8e74fa98998b7b8104d8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
